@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:svg_image_app/Presentation/Declarations/Images/image_file.dart';
-import 'package:svg_image_app/Presentation/Declarations/constants.dart';
+
+import '../../Declarations/Images/image_file.dart';
+import '../../Declarations/constants.dart';
 
 class MyHomePage extends StatelessWidget {
   const MyHomePage({Key? key, required this.title}) : super(key: key);
