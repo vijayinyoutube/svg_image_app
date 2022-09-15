@@ -33,7 +33,7 @@
 
 ## App
   
-
+THis flutter app includes adding svg images inside our app using the below mentioned package.
 To know more awesome content about Flutter., 
 
 Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
